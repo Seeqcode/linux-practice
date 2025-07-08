@@ -11,7 +11,8 @@ file_types = {
     "Images": [".jpg", ".jpeg", ".png", ".gif"],
     "Documents": [".pdf", ".docx", ".txt"],
     "Videos": [".mp4", ".mov", ".avi"],
-    "Music": [".mp3", ".wav"]
+    "Music": [".mp3", ".wav"],
+    "Apps":  [".apk"]
 }
 
 # Loop through each file in the folder
